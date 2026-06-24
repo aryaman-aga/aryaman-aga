@@ -1,16 +1,27 @@
-## Hi there 👋
+# <img src="https://cdn3.emoji.gg/emojis/7258-howody.gif" width="28px" height="28px"> About Me
+## 👋 Hi there, I'm Aryaman Agarwal
 
-<!--
-**aryaman-aga/aryaman-aga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science Engineer** who enjoys building impactful software, working with **machine learning**, and designing **clean, scalable systems**.
+Currently, I'm gaining hands-on experience through internships and project-based work, while actively participating in hackathons and collaborative tech initiatives.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm interested in
+- Full-stack development
+- Machine Learning & AI
+- Backend systems & APIs
+- Scalable system design
+- Hackathons & problem-solving
+
+---
+
+## 🌱 Currently exploring
+- AI-powered applications
+- Data-driven systems
+- Automation and optimization
+
+---
+
+## 📫 Let's connect
+- 💼 LinkedIn: https://www.linkedin.com/in/aryaman-agarwal-5b5a821b2/
+- 📧 Feel free to reach out at aryaman.agarwal.ug23@nsut.ac.in
